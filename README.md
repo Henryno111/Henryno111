@@ -3,9 +3,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 👀 I’m interested in Fullstack development and Technical Writing 
 - 🌱 I'm always learning
 - 👯 I’m looking to collaborate on projects 
