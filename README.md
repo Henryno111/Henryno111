@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Fullstack development and Technical Writing 
 - 🌱 I'm always learning
-- 👯 I’m looking to collaborate on projects 
+- 👯 I’m looking to collaborate on Web3 projects/Full-stack web applications
 - 💬 Ask me about Web applications
 - 📫 How to reach me: henryagukwe1@gmail.com
 - 😄 Pronouns: Him/he
