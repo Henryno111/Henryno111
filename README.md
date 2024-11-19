@@ -7,7 +7,7 @@
 - 🌱 I'm always learning
 - 👯 I’m looking to collaborate on Web3 projects/Full-stack web applications
 - 💬 Ask me about Web applications
-- 📫 How to reach me: henryagukwe1@gmail.com
+- 📫 How to reach me: henryagukwe01@gmail.com
 - 😄 Pronouns: Him/he
 - ⚡ Fun fact: I also love to analyse football
 
